@@ -6,7 +6,8 @@
     "ReplicatedStorage": {
       "Shared": {
         "$path": "src/shared"
-      }
+      },
+      "$path": "src/storage"
     },
 
     "ServerScriptService": {
@@ -26,6 +27,9 @@
     "Workspace": {
       "Terrain": {
         "$path": "src/world/Terrain.rbxm"
+      },
+      "Camera": {
+        "$path": "src/world/Camera.rbxm"
       },
       "$path": "src/world/Objects"
     },

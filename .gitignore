@@ -1,6 +1,3 @@
-# Project place file
-*.rbxl
-
-# Roblox Studio lock files
+/*.rbxl
 /*.rbxlx.lock
 /*.rbxl.lock
