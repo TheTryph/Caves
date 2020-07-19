@@ -1,5 +1,5 @@
 
-for _, v in pairs(workspace:GetChildren()) do
+for _, v in pairs(workspace:GetDescendants()) do
 	if v.Name == "InvisiblePart" then
 		v.Transparency = 1
 		v.Anchored = true
