@@ -41,7 +41,8 @@
         "Brightness": 3,
         "GlobalShadows": true,
         "Technology": "Future"
-      }
+      },
+      "$path": "src/lighting"
     },
     "SoundService": {
       "$properties": {
