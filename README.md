@@ -1,7 +1,7 @@
 # Caves game
 ## Info
 
-This is a game I've made during my spare time in 2020, and it was a learning experience for me.
+This is a game I've made in 2020.
 
 ## Goal
 
@@ -16,9 +16,10 @@ To build the place from scratch, use:
 rojo build -o main.rbxl
 ```
 
-Next, Open the "main.rbxl" and play the game.
+Next, Open the "main.rbxl" and play the gam.
 
 ### Download from releases
+Download the latest version of the game and play it.
 
 ## License
 
