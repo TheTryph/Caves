@@ -23,6 +23,12 @@
       }
     },
 
+    "Workspace": {
+      "Terrain": {
+        "$path": "src/world/Terrain.rbxm"
+      }
+    },
+
 
     "Lighting": {
       "$properties": {
