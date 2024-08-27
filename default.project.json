@@ -26,7 +26,8 @@
     "Workspace": {
       "Terrain": {
         "$path": "src/world/Terrain.rbxm"
-      }
+      },
+      "$path": "src/world/Objects"
     },
 
 
