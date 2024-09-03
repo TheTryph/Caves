@@ -9,6 +9,7 @@ Escape the caves.
 
 ## Getting Started
 
+### With Rojo
 To build the place from scratch, use:
 
 ```bash
@@ -16,6 +17,8 @@ rojo build -o main.rbxl
 ```
 
 Next, Open the "main.rbxl" and play the game.
+
+### Download from releases
 
 ## License
 
