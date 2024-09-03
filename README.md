@@ -17,6 +17,6 @@ rojo build -o main.rbxl
 
 Next, Open the "main.rbxl" and play the game.
 
+## License
 
-
-For more help, check out [the Rojo documentation](https://rojo.space/docs).
+Caves is available under the terms of the Apache License, Version 2.0. See [LICENSE](LICENSE.MD) for details.
